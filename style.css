@@ -1,0 +1,54 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.red{
+    border: 1px solid red;
+}
+.green{
+    border: 1px solid green;
+}
+.banner{
+    height: 500px;
+    background:url(banner.jpg) center center no-repeat ;
+    padding: 20px;
+}
+.about-signin {
+  height: 80px;
+  width: 100%;
+}
+.about, .sign-in{
+    float: right;
+    
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 19px;
+    text-transform: uppercase;
+    
+}
+.about{
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    margin-right: 30px;
+   
+}
+.sign-in{
+    border: 2px solid green;
+    border-radius: 16px;
+    
+    text-align: center;
+    margin-right: 60px;
+    
+}
+.logo{
+    background:url(hapoERP.png) center center no-repeat ;
+    height: 100px;
+    margin-top: 40px;
+}
+.left, .right, .center{
+    display: inline-block;
+   
+}
+

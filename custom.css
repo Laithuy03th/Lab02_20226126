@@ -1,0 +1,47 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.red{
+    border: 1px solid red;
+}
+.green{
+    border: 1px solid green;
+}
+.banner{
+    height: 500px;
+    background:url(banner.jpg) center center no-repeat ;
+    padding: 20px;
+   
+   
+    
+    .sign-in{
+        border: 2px solid green;
+        border-radius: 16px;
+        
+        text-align: center;
+        margin-right: 60px;
+        
+    }
+    .about{
+        font-weight: bold;
+        font-size: 18px;
+        text-decoration: underline;
+        margin-right: 30px;
+       
+    }
+    
+}
+
+
+
+.logo{
+    background:url(hapoERP.png) center center no-repeat ;
+    height: 100px;
+    margin-top: 40px;
+}
+.left, .right, .center{
+    display: inline-block;
+   
+}
+
